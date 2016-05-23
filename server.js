@@ -39,6 +39,7 @@ if (isDeveloping) {
   app.get('*', function response(req, res) {
     res.write(middleware.fileSystem.readFileSync(path.join(__dirname, 'dist/index.html')));
   });
+  
 } else {
   app.use(express.static(__dirname + '/dist'));
   app.get('*', function response(req, res) {
