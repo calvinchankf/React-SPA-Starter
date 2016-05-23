@@ -22,8 +22,9 @@ Any pull requests to minimize the codebase are welcome.🙏 If you want more fea
 ### Cautions ☝
 This repo is ONLY for beginners🤓, you may notice that I haven't implement any optimization like uglyfy, gzip...whatever 🤗 , because I just wanna make things simple, easy to maintain and deploy without pain.👶
 
-### Demo 😎
+### Demos 😎
 - http://react-spa-starter.herokuapp.com/
+- https://instagramvideodownloader.herokuapp.com/
 
 ### References 📕
 - [The ultimate Webpack setup](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup)
