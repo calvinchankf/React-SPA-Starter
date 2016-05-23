@@ -10,7 +10,7 @@ A starter template for beginner to build a Single Page Application(SPA) with Rea
 - [Express Router](http://expressjs.com/en/starter/basic-routing.html) <- api/other modules, not in react component because i wanna remain the flexibility to includes other modules
 - [React Hot Loader](http://gaearon.github.io/react-hot-loader/) <- hot reloading for debug, save your time.🍺
 
-### TODO 🏃🏻
+### TODO 🏃
 - Integrate css libraries for styling, I didn't do that because it seems that there are some differences to integrate between those css frameworks I used most.
 
 ### Why? 🤔
